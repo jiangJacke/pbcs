@@ -10,6 +10,4 @@ public class PbcsApplication {
     public static void main(String[] args) {
         SpringApplication.run(PbcsApplication.class, args);
     }
-
-
 }
