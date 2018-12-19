@@ -147,6 +147,7 @@ public class CpdlcGraphs {
         }
 
         System.out.println("=============================");
+
         int len = 0; //各线段长度
         String[] cc=null;   //各线段
         String bb[] = (String[]) map.get("month");
